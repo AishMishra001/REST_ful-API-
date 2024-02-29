@@ -7,3 +7,5 @@
 3. Learned about Nodemod : 
 
     Nodemon: This is the most likely interpretation and refers to a popular Node.js tool, not a library. Nodemon is used during development to automatically restart your Node.js application whenever you make changes to the code. This saves you time and effort compared to manually restarting the application each time. You can install it using npm install nodemon.
+
+4. Connect to database ----> then run the server 
